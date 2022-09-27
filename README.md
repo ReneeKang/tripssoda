@@ -5,13 +5,13 @@
 나아가, 코로나 팬데믹으로 인해 여행에 많은 제한을  받았던 과거에 비해<br>
 코로나 엔데믹 선언 이후 자유로운 여행이 가능해지며<br>
 여행에 대한 수요 또한 큰폭으로 증가하는 추세이기에 현재 시기에 적절한 주제라고 판단했습니다.<br>
-<br>
+<br><br>
 <img src="https://user-images.githubusercontent.com/87851820/188815483-65a20fd3-a0d2-4828-90c7-7c612da258f2.png" width="75%"/><br>
 누구나 여행을 계획하다보면 “누구랑가지?, 언제가지?” 라는 고민을 해보셨을겁니다.<br>
 같이 갈 사람을 찾고, 또 시간을 맞추는게 늘 쉽지 않음을 느끼는데요.<br>
 "좀 더 쉽게 여행을 떠날 수 없을까?" 라는 고민 끝에<br>
 동행자를 쉽게 구할 수 있는 커뮤니티와 여행상품을 제공하는 서비스를 선택하게 됐습니다.<br>
-<br>
+<br><br>
 
 ## 📆 진행기간
 <img src="https://user-images.githubusercontent.com/87851820/188601793-a114a5a6-9417-48a4-b6e4-5dd8e34d6cfa.png" width="270"/>&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/87851820/188602363-05ffb178-9710-4a79-acea-0b9db0824825.png" width="270"/><br>
